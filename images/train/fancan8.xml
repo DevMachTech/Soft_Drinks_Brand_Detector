@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fancan</folder>
+	<filename>fancan8.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\fanta can\fancan\fancan8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>278</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fanta_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>23</ymin>
+			<xmax>258</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

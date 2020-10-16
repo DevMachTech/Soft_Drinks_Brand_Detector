@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fanbottle</folder>
+	<filename>fanbottle9.png</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\fanta bottle\fanbottle\fanbottle9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fanta_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>34</ymin>
+			<xmax>251</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fanta_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>33</ymin>
+			<xmax>438</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>
