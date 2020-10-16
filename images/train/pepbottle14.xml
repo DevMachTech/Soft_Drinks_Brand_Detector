@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pepbottle</folder>
+	<filename>pepbottle14.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\pepsi bottle\pepbottle\pepbottle14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pepsi_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>8</ymin>
+			<xmax>517</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+</annotation>
