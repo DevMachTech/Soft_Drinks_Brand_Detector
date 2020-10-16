@@ -1,0 +1,26 @@
+<annotation>
+	<folder>colabottle</folder>
+	<filename>cola30.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\coca bottle\colabottle\cola30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>168</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coca_cola_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>9</ymin>
+			<xmax>124</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

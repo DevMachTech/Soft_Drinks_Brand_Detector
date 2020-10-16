@@ -1,0 +1,26 @@
+<annotation>
+	<folder>colabottle</folder>
+	<filename>cola8.png</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\coca bottle\colabottle\cola8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>1708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coca_cola_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>36</ymin>
+			<xmax>675</xmax>
+			<ymax>1670</ymax>
+		</bndbox>
+	</object>
+</annotation>

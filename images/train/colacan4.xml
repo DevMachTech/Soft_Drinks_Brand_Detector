@@ -1,0 +1,38 @@
+<annotation>
+	<folder>colacan</folder>
+	<filename>colacan4.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\cola can\colacan\colacan4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>369</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coca_cola_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>7</ymin>
+			<xmax>185</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coca_cola_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>162</ymin>
+			<xmax>359</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>
