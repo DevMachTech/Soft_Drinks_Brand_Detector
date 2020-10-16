@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pepcan</folder>
+	<filename>pepcan26.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\pepsi can\pepcan\pepcan26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3709</width>
+		<height>2371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pepsi_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>133</ymin>
+			<xmax>1356</xmax>
+			<ymax>1833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepsi_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2337</xmin>
+			<ymin>141</ymin>
+			<xmax>3233</xmax>
+			<ymax>1841</ymax>
+		</bndbox>
+	</object>
+</annotation>
