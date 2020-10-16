@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sprcan</folder>
+	<filename>sprcan17.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\sprite can\sprcan\sprcan17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>849</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sprite_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>4</ymin>
+			<xmax>583</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>

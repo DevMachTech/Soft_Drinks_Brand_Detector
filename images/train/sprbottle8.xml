@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sprbottle</folder>
+	<filename>sprbottle8.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\branding\sprite bottle\sprbottle\sprbottle8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sprite_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>28</ymin>
+			<xmax>124</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
